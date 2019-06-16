@@ -1,0 +1,27 @@
+
+/* ================================================================
+ *     Copyright (C) 2019 All rights reserved.
+ * 
+ *     File Name       : temp.cpp
+ *     Author          : shenmishajing
+ *     Created Time    : 2019年04月29日
+ *     Last Modified   : 2019-04-29 15:30:29
+ *     Description         : 
+ * 
+ * ================================================================*/
+#include <iostream>
+#include <vector>
+
+int main()
+{
+    int n;
+    std::cin >> n;
+    std::cout << n;
+    std::vector<int> v;
+    v.push_back(n);
+    for (int i=0;i<n;i++){
+        int temp;
+        std::cin>>temp;
+        v.push_back(temp);
+    }
+}

@@ -1,0 +1,5 @@
+"/Users/zwh/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/191.7479.33/CLion.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/Users/zwh/OneDrive - shenmishajing/Project/Cpp/oop/project"
+-- Could NOT find X11 (missing: X11_X11_INCLUDE_PATH X11_X11_LIB) 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/zwh/OneDrive - shenmishajing/Project/Cpp/oop/project/cmake-build-debug
